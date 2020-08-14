@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1083598580943",
+    "firebase_url": "https://oni-cares.firebaseio.com",
+    "project_id": "oni-cares",
+    "storage_bucket": "oni-cares.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083598580943:android:82d3df92652c4bd77d1bba",
+        "android_client_info": {
+          "package_name": "com.onicares.onicares"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083598580943-88a1qb3sodpln156gvpbarbu8m7om8v1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onicares.onicares",
+            "certificate_hash": "eceda459db9d5bc5df315b00f1809ef0bff825d4"
+          }
+        },
+        {
+          "client_id": "1083598580943-b2dq10a7nqan5mf233fcs6nqe0qsv8h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjnYiAEarFoytEj8U7kKUsjI1K_zqXSaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083598580943-b2dq10a7nqan5mf233fcs6nqe0qsv8h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
